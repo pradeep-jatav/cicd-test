@@ -1,5 +1,5 @@
 name: CI - Build and Push to ECR
-
+# just nothing
 on:
   push:
     branches:
